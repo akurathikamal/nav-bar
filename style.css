@@ -1,0 +1,17 @@
+body,html{
+  margin: 0;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(9, 72, 143, 0.877);
+  border-top :3px solid rgba(9,72,143,1);
+}
+li{
+  display: inline;
+  padding:8px 16px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
